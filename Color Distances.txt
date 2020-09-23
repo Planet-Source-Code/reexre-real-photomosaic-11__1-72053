@@ -1,0 +1,15 @@
+typedef struct {
+   unsigned char r, g, b;
+} RGB;
+
+long ColourDistance(RGB e1, RGB e2)
+{
+  long r,g,b;
+  long rmean;
+
+  rmean = ( (int)e1.r + (int)e2.r ) / 2;
+  r = (int)e1.r - (int)e2.r;
+  g = (int)e1.g - (int)e2.g;
+  b = (int)e1.b - (int)e2.b;
+  return (((512+rmean)*r*r)>>8) + 4*g*g + (((767-rmean)*b*b)>>8);
+}

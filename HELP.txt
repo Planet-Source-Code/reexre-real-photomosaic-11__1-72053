@@ -1,0 +1,163 @@
+R E A L  P H O T O M O S A I C 	11
+
+
+
+
+C R E A T E  C O L L E C T I O N
+
+Collection is a Collection of Photos to use as tiles.
+Click Here, It is prompted to choose a folder, then each jpg picture in that folder will be scanned and a Collection 'FolderName' will be created.
+
+This is the first step to do if Collections List is empty.
+---------------------------------------------------------
+
+
+L O A D   (checked)   C O L L E C T I O N
+
+Click Here to Load in Memory the selected Collection(s) that will be used in Creation Process.
+
+If your Collection List is empty go to point (1).
+
+---------------------------------------------------------
+
+
+L O A D   S U B J E C T   P I C
+
+Click here to Select a Picture to Use as SUBJECT
+
+---------------------------------------------------------
+
+
+C R E A T E   P H O T O M O S A I C
+
+Click here to Start Photomosaic Creation Process.
+
+(At least 1 Collection Must be Created and Loaded)
+
+---------------------------------------------------------
+
+
+O P E N   A N D   R E B U I L D
+
+With here left OUTPUTSIZE SlideBar Choose Output Dimension of Photomosaic.
+
+Can Modify 'Adjust Color' and 'BLEND' Values too.
+
+Click Here to Select wich (perivous Created) Photomosaic you want Re-Build and Start ReBuild Process.
+
+---------------------------------------------------------
+
+
+C O L L E C T I O N S  L I S T
+
+This is the Collections List. Here you can Select/Deselect Collections involved in Creation Process.
+
+When choise is done go to Point (2) to Load it/them in memory
+
+---------------------------------------------------------
+
+
+ALLOW DUPLICATES / SELECT DISTANCE
+
+Allow or Deny Same Tile to appear Multiple Times.
+
+If Duplicates are Allowed then Type Minimal 'number of Tiles'(distance) Between Identical Tiles.
+
+---------------------------------------------------------
+
+
+ADJUST COLORS
+
+With SlideBar choose % of colors adjustment in Creation Process.
+
+0% means: tiles Color is not changed.
+100% means: tiles Color is full changed to best match the tile Zone.
+---------------------------------------------------------
+
+
+FAST (Less Accurate)
+
+If Checked then Creation Process is (about 4 times) Faster but Less Accurate.
+
+---------------------------------------------------------
+
+
+OUTPUT SIZE
+
+10 Means: Output Size is equal to Subject Picture Size.
+20 Means: Output Size is Two time the Subject Picture Size.
+
+... and so on...
+
+Centimeters size is calculate as 300 DPI image.
+
+---------------------------------------------------------
+
+
+UPDATE COLLECTION(S)
+
+If you added/removed/modified photos in some Collection Folder then it's needed to Update Collection.
+Go to Collection List and Check the Collection(s) you want to update.
+Click Here and Checked Collection(s) will be updated
+
+(For added Photos works Good, otherwise may not work. Alternatively You can Go to Point (1) and reCreate Collection from zero.)---------------------------------------------------------
+
+
+LOAD SET   /   SAVE SET
+
+A Collection Set is a List of Collections.
+
+Load: Load  Collection Set.
+
+Save: Check Collections to Group as a 'SET' and then click Save Set.
+
+---------------------------------------------------------
+
+
+MIRRORED TILES
+
+If Checked , Consider and use even Mirrored Tiles in Creation Process.
+So the Number of Photos to Use as Tiles is  Doubled.
+---------------------------------------------------------
+
+
+P H O T O M O S A I C   T Y P E
+
+STANDARD = Tiles are placed side by side
+
+STND_MASK = Tiles are MASKED. Click a picture here Right to choose the Mask. The 3RD picture is suggested.
+
+OVERLAP = Tiles are Overlapped and have Random size. (Total Tiles Numbers is about 3 Times than dispalyed)
+
+OVERLAP_MASK = Tiles are Overlapped With MASK and have Random size. (Total Tiles Numbers is about 3 Times than dispalyed)
+
+ART_1 = Random Size NOT OVERLAPPED
+
+ART_brain = Similar to ART_1. Requires a lot of memory
+
+CIRCLED_LR = Tiles are Placed in Circles. Click Point on subject Picture to change circle Center. Orizontal Tiles are Left And Right. (Total Tiles Numbers is about 1.2-1.5 Times than dispalyed)
+
+CIRCLED_UD = Same as above but Orizontal Tiles are Up and Down
+
+ANG_OVERLAP_RND = Tiles are overlapped with Random Angle. (Total Tiles Numbers is about 3 Times than dispalyed)
+
+ANG_OVERLAP_COL = Same as above but the Angle is given by subject pic Color.
+
+---------------------------------------------------------
+
+
+BLEND
+
+With SlideBar choose % of how much Subject Picture Image will appear in Photomosaic.
+
+---------------------------------------------------------
+
+
+G E T   R A N D O M   P I C   A S   S U B J E C T
+
+Click here to Select a Random Picture From Loaded Collection(s) to Use as SUBJECT
+
+(at Least 1 Collection must be loaded, [ See(2) ] )
+---------------------------------------------------------
+
+

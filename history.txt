@@ -1,0 +1,15 @@
+Create PHOTOMOSAICS (see screenshot)
+----- Create picture formed by 100's of smaller pictures.
+----- Since [V7.3] Very much Faster. (Since V7.3 incompatibility with lower version due to Increase of Tile "Detail" in computation. [You Had to ReCreate Your Collections] ).
+----- [V7.4] Fixed Bug CommonDialog API (filter), LogFile , Status, others inprovements ('Open and ReBuild' has incompatibility with Lower Version).
+----- [V7.5] Better Manage PM with Collection(s) Tiles Number lower than Photomosaic Tiles Number: Deny infinte loop bug in Removing Duplicates.
+----- (([V7.6] Bug of borders Tiles in "FUS" PM Type Fixed.))
+----- [V8.0] Added New Photomosaic Types: "RandSize" "RandSizeMask". Now all PM types can have mirrored source tiles. ('Open and ReBuild' has incompatibility with Lower Version).
+----- [V8.1] Added New Photomosaic Type: "ART1" - Save as JPG
+----- [V8.2] Better Browse from folder.
+----- [V8.3] ABORTED V8.2, Faster LoadCollection.
+----- ( [V9] PSC upload ).
+----- [V10] New "Circled" PM Style with LaVople ImageControl OCX for Rotation. JPG Quality
+----- [V11] No lavolpe ocx. Other way for rotation. Added 2 Photomosaic Styles. Little Faster.
+
+
