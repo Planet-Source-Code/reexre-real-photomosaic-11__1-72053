@@ -1,0 +1,1 @@
+Create PHOTOMOSAICS (see screenshot) ----- Create picture formed from 100's of smaller pictures. ----- Feautres: ---*Manage Mirrored tiles* ---*Manage Duplcated Tiles and Minimal Distance between them* ---*Tile Masks* ---*Rotated Tiles* ---*Blend with Source pic* ---* 10 PhotoMosaic Styles*.
